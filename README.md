@@ -102,14 +102,6 @@ Please keep pull requests focused on one improvement whenever possible.
 
 ## Future Improvements
 
-Potential enhancements include:
-
-- Improved video call error handling
-- Better network reconnection behavior
-- Additional integration examples
-- Expanded setup documentation
-- Automated testing
-- Performance and reliability improvements
 
 ## Resources
 
